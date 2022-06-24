@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TestWorkLeroyMerlin</string>
+    <string name="enter_users">Войдите для синхронизации ваших заказов и покупок на всех устройствах</string>
+    <string name="profile">Мой профиль</string>
+    <string name="registration">Зарегистрироваться</string>
+    <string name="enter_system">Войти</string>
+    <string name="region">Мой регион</string>
+    <string name="location">Москва, Московская область</string>
+    <string name="data">Личные данные</string>
+    <string name="sent_users">Получатели</string>
+    <string name="street">Адреса доставки</string>
+    <string name="help">Помощь</string>
+    <string name="delivery">Доставка и самовывоз</string>
+    <string name="rules">Правила продажи</string>
+    <string name="support">Клиентская поддержка</string>
+    <string name="version">Версия приложения 4.14.2</string>
+</resources>
