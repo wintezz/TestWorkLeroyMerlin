@@ -39,7 +39,7 @@
             android:layout_height="50dp"
             android:layout_marginStart="29dp"
             android:layout_marginTop="33dp"
-            android:background="@drawable/button_corner"
+            android:backgroundTint="@color/teal_700"
             android:text="@string/enter_system"
             android:textAllCaps="false"
             app:layout_constraintStart_toStartOf="parent"
